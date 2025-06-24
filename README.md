@@ -16,9 +16,12 @@ CubeCraft Launcher es un launcher no-premium de Minecraft, con el que puedes ins
 - Entrar al menú de mods.
 
 ### Menú de configuración:
+- Cambiar el directorio del juego.
 - Limitar el uso de memoria RAM del juego.
 - Mostrar snapshots, versiones antiguas o versiones de forge al instalar una nueva versión.
 - Cambiar entre modo oscuro o modo claro en el launcher.
+- Ir a configuración avanzada.
+- Ver la versión actual del launcher.
 
 ### Menú de mods:
 - Descargar e instalar mods, paquetes de texturas, mapas o shaders.
@@ -27,6 +30,10 @@ CubeCraft Launcher es un launcher no-premium de Minecraft, con el que puedes ins
 - Seleccionar el software (Vanilla, Forge o Fabric).
 - Seleccionar la versión del juego.
 - Instalar la versión seleccionada.
+
+### Menú de configuración avanzada:
+- Activar/desactivar la consola de desarrollador al inicio del juego.
+- Activar/desactivar modo desarrollador (Modo DEV).
 
 
 # **Guía del launcher**
@@ -39,4 +46,4 @@ CubeCraft Launcher es un launcher no-premium de Minecraft, con el que puedes ins
     ***Si quieres instalar resourcepacks, mapas o shaders, tienes que seguir los mismos pasos.***
 
 - Como personalizo el launcher?
-    - Para **personalizar** el launcher a tu gusto, puedes entrar al menú de configuración. Ahí puedes limitar la memoria RAM que va a usar Minecraft *(no es NADA recomendable poner toda la disponible)*. También puedes optar por ver las snapshots o las versiones *alpha/beta* marcando o desmarcando las opciones. También puedes cambiar entre **modo oscuro o modo claro** en el menú de configuración.
+    - Para **personalizar** el launcher a tu gusto, puedes entrar al menú de configuración. Ahí puedes limitar la memoria RAM que va a usar Minecraft *no es NADA recomendable poner toda la disponible*, mejor usar menos del 80%. También puedes optar por ver las snapshots o las versiones *alpha/beta* marcando o desmarcando las opciones. También puedes cambiar entre **modo oscuro o modo claro** en el menú de configuración.
